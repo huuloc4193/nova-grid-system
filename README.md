@@ -5,7 +5,7 @@
 You can install this package via composer:
 
 ```
-composer require codenco-dev/nova-grid-system
+composer require locdh41/nova-4-grid-system
 ```
 
 Then, you will need to register the tool within the NovaServiceProvider.php:
